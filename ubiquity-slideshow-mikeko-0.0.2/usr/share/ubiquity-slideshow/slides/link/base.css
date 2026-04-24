@@ -71,14 +71,14 @@ img {
 #wrapper {
 	position: absolute;
 
-	width: 640px;
+	width: 980px;
 	height: 100%;
 }
 
 #slideshow {
 	color: #fff;
 
-	width: 640px;
+	width: 970px;
 	min-height: 500px;
 	height: 100%;
 
